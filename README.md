@@ -7,7 +7,7 @@ Churn Prediction is a crucial task for companies with subscription-based service
 This project utilizes historical customer data to predict the likelihood of churn. The dataset includes various customer attributes and service usage metrics. The goal is to build a predictive model that helps in identifying customers who are at risk of canceling their services.
 
 ## Key Features
-* Customer Demographics: Information such as age, gender, and seniority.
+1. Customer Demographics: Information such as age, gender, and seniority.
   
 * Account Information: Tenure, monthly charges, and total charges.
   
