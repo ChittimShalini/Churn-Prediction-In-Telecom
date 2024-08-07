@@ -7,15 +7,18 @@ Churn Prediction is a crucial task for companies with subscription-based service
 This project utilizes historical customer data to predict the likelihood of churn. The dataset includes various customer attributes and service usage metrics. The goal is to build a predictive model that helps in identifying customers who are at risk of canceling their services.
 
 ## Key Features
-Customer Demographics: Information such as age, gender, and seniority.
-Account Information: Tenure, monthly charges, and total charges.
-Service Usage: Details on service usage, including internet and phone services.
-Customer Feedback: Insights from customer interactions and complaints.
+* Customer Demographics: Information such as age, gender, and seniority.
+  
+* Account Information: Tenure, monthly charges, and total charges.
+  
+* Service Usage: Details on service usage, including internet and phone services.
+  
+* Customer Feedback: Insights from customer interactions and complaints.
 
 ## Machine Learning Model
-Algorithm Used: Logistic Regression
-Objective: Predict the probability of a customer churning based on historical data.
-Evaluation Metrics: Accuracy, Precision, Recall, and F1 Score.
+- Algorithm Used: Logistic Regression
+- Objective: Predict the probability of a customer churning based on historical data.
+- Evaluation Metrics: Accuracy, Precision, Recall, and F1 Score.
 
 ## Data Preparation
 Data Cleaning: Handling missing values, encoding categorical variables, and feature scaling.
