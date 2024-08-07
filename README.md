@@ -41,3 +41,13 @@ To run this project, ensure you have the following dependencies installed:
 
 ## Results and Evaluation
 The model's performance is evaluated based on its accuracy in predicting churn. Visualizations and metrics are provided to analyze the model's effectiveness and the importance of various features in predicting customer churn.
+
+## Conclusion
+The Churn Prediction project successfully developed a Logistic Regression model to identify at-risk customers in the telecom industry. By leveraging historical data, the model provides actionable insights for targeted retention strategies, helping to enhance customer loyalty and reduce churn rates. Future work could explore advanced algorithms and additional features for improved prediction accuracy.
+
+
+
+
+
+
+
