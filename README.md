@@ -31,3 +31,6 @@ To run this project, ensure you have the following dependencies installed:
 * scikit-learn
 * matplotlib
 * seaborn
+
+## Results and Evaluation
+The model's performance is evaluated based on its accuracy in predicting churn. Visualizations and metrics are provided to analyze the model's effectiveness and the importance of various features in predicting customer churn.
