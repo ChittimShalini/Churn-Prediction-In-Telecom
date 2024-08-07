@@ -9,21 +9,25 @@ This project utilizes historical customer data to predict the likelihood of chur
 ## Key Features
 1. Customer Demographics: Information such as age, gender, and seniority.
   
-* Account Information: Tenure, monthly charges, and total charges.
+2. Account Information: Tenure, monthly charges, and total charges.
   
-* Service Usage: Details on service usage, including internet and phone services.
+3. Service Usage: Details on service usage, including internet and phone services.
   
-* Customer Feedback: Insights from customer interactions and complaints.
+4. Customer Feedback: Insights from customer interactions and complaints.
 
 ## Machine Learning Model
 - Algorithm Used: Logistic Regression
+  
 - Objective: Predict the probability of a customer churning based on historical data.
+  
 - Evaluation Metrics: Accuracy, Precision, Recall, and F1 Score.
 
 ## Data Preparation
-Data Cleaning: Handling missing values, encoding categorical variables, and feature scaling.
-Feature Selection: Identifying relevant features that contribute to churn prediction.
-Train-Test Split: Splitting the data into training and testing sets to evaluate model performance.
+1. Data Cleaning: Handling missing values, encoding categorical variables, and feature scaling.
+   
+2. Feature Selection: Identifying relevant features that contribute to churn prediction.
+   
+3. Train-Test Split: Splitting the data into training and testing sets to evaluate model performance.
 
 ## Installation and Setup
 To run this project, ensure you have the following dependencies installed:
